@@ -2,7 +2,7 @@
 
 body {
 font: normal normal 13px/16px "Open Sans", sans-serif;
-background: #B6C0AB;
+background: #96ceb4;
 }
 
 .container{
@@ -10,7 +10,7 @@ padding: 20px;
 width: 300px;
 margin: 0 auto;
 margin-top: 40px;
-background: white;
+background: #ffeead;
 border-radius: 5px;}
 
 form {
@@ -23,7 +23,7 @@ padding: 4px 15px 4px 5px;
 
 #button{
 display: inline-block;
-background-color:#BA63C6;
+background-color:#d96459;
 color:#ffffff;
 border-radius: 5px;
 text-align:center;
